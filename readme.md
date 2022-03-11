@@ -1,6 +1,6 @@
 # Introdução
 
-Esse projeto tem o intuito de servir como um "second brain", um lugar onde eu posso:
+Esse [projeto](https://segundocerebro.vercel.app/) tem o intuito de servir como um "second brain", um lugar onde eu posso:
 
  - Escrever code snippets pra me poupar o tempo de pesquisar a mesma coisa sempre.
  - Escrever sobre alguma coisa que aprendi.
