@@ -1,6 +1,6 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
+  github: 'https://github.com/dev-luizf/second-brain',
+  docsRepositoryBase: 'https://github.com/dev-luizf/second-brain',
   titleSuffix: ' – Second Brain',
   logo: (
     <>
